@@ -1,0 +1,14 @@
+layout_spectrum: 0.6650773589499295
+typography_spectrum: 0.4337105897720903
+color:
+  brandStrength: 0.8041035805363208
+  lightness: 0.9054118331987411
+  saturation: 0.7773371143266559
+  rhythmicContrast: 0.48178295139223337
+  brandColors:
+    - '#2C3E50'
+    - '#E74C3C'
+    - '#ECF0F1'
+    - '#3498DB'
+    - '#2980B9'
+name: grid-test1
